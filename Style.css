@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    line-height:30px;
+    background: red; 
+
+}
+
+#First{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    background: black;
+   color: bisque;
+   
+   }
+
+
+#Second{
+    color: bisque;
+    text-align: center;
+    text-decoration: underline;
+    height: 200px;
+
+}
+
+table{
+    text-align: center;
+    margin: auto;
+    background-color:rgb(212, 152, 38) ;
+    opacity: 0.5;
+}
+
+#audio{
+  
+    position: fixed;
+    top: 5px;
+    left: 5px;
+    
+}
+
+
+#First_img {
+  
+    background-image: url(Foto/image.png);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    border: 4px solid silver; 
+    
+
+
+h2{
+    color: rgb(77, 223, 9);
+    text-align: center;
+    height: 70px;
+   }
+
+
+   
+.Text_Left{
+
+    overflow: auto;
+
+}
+
+
+img{
+    float: left;
+    margin-right: 10px;
+}
+
+
+button{
+    color: rgb(255, 217, 0);background-color:rgb(170, 167, 167);
+    opacity: 1;
+    border-radius: 20px;
+    width: 250px;
+    height: 30px;
+   }
+   
+
+p{
+    
+    color: rgb(207, 221, 8);
+    left: 20px;
+    padding: 20px ;
+    text-decoration: underline;
+    
+   }
+
+
+
+.Foto{
+    opacity: .3;
+    width:100;
+    border: 4px solid rgb(245, 0, 0);
+   
+   }
+
+
+
+.Text:hover{
+
+    color: rgb(14, 131, 233);
+
+  }
+
+}
+
+#Second_img{
+
+    background-image: url(Foto/image1.1.png);
+    background-size:cover;
+    border: 4px solid silver;
+  
+    .Text:hover{
+
+        color: rgb(255, 0, 76);
+    
+      }
+
+    h1{
+        text-align: center;
+        color: brown;
+        height: 80px;
+
+    }
+
+.Foto{
+    width: 700px;
+    border: 4px solid rgb(0, 4, 255);
+  
+}
+
+ p{
+    color: green;
+ }
+
+    
+ button{
+
+    width: 600px;
+    height: 40px;
+    background: rgb(0, 154, 243);
+    color: bisque;
+    text-align: center;
+    border:3px solid rgb(104, 104, 104);
+    border-radius: 40% 20%;
+
+ }
+ 
+
+ .Text_Left{
+
+    overflow: auto;
+
+}
+
+img {
+    float: left; /* Размещение картинки слева от текста */
+    margin-right: 10px; /* Расстояние между картинкой и текстом */
+    opacity: .5;
+
+}
+  
+    
+
+
+
+  }
+
+
+
+
